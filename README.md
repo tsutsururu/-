@@ -13,3 +13,10 @@
 246B  Get Closer                      diff 79
 
 259B  Counterclockwise Rotation       diff 180
+
+
+
+# 尺取り法
+
+229D LongestX                        diff 745
+
