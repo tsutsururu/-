@@ -31,5 +31,7 @@
 190D Staircase Sequences    diff 722
 
 
+# 双方向リスト?
 
+237D  LR insertion diff 544
 
