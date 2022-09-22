@@ -24,3 +24,12 @@
 
 229D LongestX                        diff 745
 
+
+
+# 整数問題
+
+190D Staircase Sequences    diff 722
+
+
+
+
