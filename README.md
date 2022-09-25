@@ -39,3 +39,7 @@
 # トーナメント 　　　　苦手か？
 
 188C  ABC Tournament    diff  120
+
+# 累積和高速化
+
+233D Count Interval  diff 726
