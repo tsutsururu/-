@@ -43,3 +43,21 @@
 # 累積和高速化
 
 233D Count Interval  diff 726
+
+
+
+# DP
+
+# 差に注目するdp
+
+204D  Cooking   diff  832
+
+
+# 前から順に考える dp
+
+211C chokudai    diff 559
+
+248C Dice sum    diff 748
+
+
+
