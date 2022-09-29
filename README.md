@@ -64,15 +64,15 @@
 
 # 候補を全探索して条件を満たすか判定
 
-# 196C Double 244
+196C Double 244
 
-# 157C Guess The Number  diff 456
+157C Guess The Number  diff 456
 
-# 201 Serect Number  diff 439
+201 Serect Number  diff 439
 
+150C Count Order   diff 422
 
-
-
+095C Half and Half   diff 291
 
 
 
