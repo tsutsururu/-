@@ -61,3 +61,19 @@
 
 
 
+
+# 候補を全探索して条件を満たすか判定
+
+# 196C Double 244
+
+# 157C Guess The Number  diff 456
+
+# 201 Serect Number  diff 439
+
+
+
+
+
+
+
+
