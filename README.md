@@ -1,3 +1,13 @@
+# 整数問題
+
+190D Staircase Sequences    diff 722
+
+
+# 逆元
+
+156D Boquet  diff 1014
+
+
 # 条件を満たす正整数の数のカウント
 
 179C A x B + C    diff 283
@@ -26,14 +36,19 @@
 
 
 
-# 整数問題
 
-190D Staircase Sequences    diff 722
 
+# 類題が少ないデータ構造
+
+# std::set  平衡二分木
+
+217D   Cutting Woods   diff 802
 
 # 双方向リスト?
 
 237D  LR insertion diff 544
+
+
 
 
 # トーナメント 　　　　苦手か？
