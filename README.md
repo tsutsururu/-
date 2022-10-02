@@ -42,6 +42,8 @@
 
 # std::set  平衡二分木
 
+253C  Max - Min Query   diff 518
+
 217D   Cutting Woods   diff 802
 
 # 双方向リスト?
