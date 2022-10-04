@@ -69,12 +69,18 @@
 
 204D  Cooking   diff  832
 
+# 重複して選べるdp
+
+アルゴ式 dp2   問題 7 個数制限付き部分和問題
+
 
 # 前から順に考える dp
 
 211C chokudai    diff 559
 
 248C Dice sum    diff 748
+
+152D  125D Flipping Signs diff 833
 
 
 
