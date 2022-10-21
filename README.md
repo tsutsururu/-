@@ -97,6 +97,8 @@
 
 095C Half and Half   diff 291
 
+D Lucky PIN diff 838
+
 
 
 
