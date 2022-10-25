@@ -83,6 +83,9 @@
 152D  125D Flipping Signs diff 833
 
 
+# 二つの要素の遷移を追う
+
+219D StrangeLunchbox
 
 
 # 候補を全探索して条件を満たすか判定
@@ -107,3 +110,11 @@ D Lucky PIN diff 838
 # 同じポイントで複数のイベントが発生する 
 
 188D Sunke Prime 933
+
+
+
+# 状態が繰り返される構造
+
+202D aab aba baa   diff 966
+
+115D Christmas   diff 1088
