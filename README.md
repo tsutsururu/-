@@ -33,7 +33,7 @@
 # 尺取り法
 
 229D LongestX                        diff 745
-
+265D Iroha and Haiku (New ABC Edition) diff 727
 
 
 
