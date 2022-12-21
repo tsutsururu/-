@@ -34,6 +34,8 @@
 
 229D LongestX                        diff 745
 
+## 区間が複数
+
 265D Iroha and Haiku (New ABC Edition) diff 727
 
 
