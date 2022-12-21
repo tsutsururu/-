@@ -33,6 +33,7 @@
 # 尺取り法
 
 229D LongestX                        diff 745
+
 265D Iroha and Haiku (New ABC Edition) diff 727
 
 
@@ -118,3 +119,13 @@ D Lucky PIN diff 838
 202D aab aba baa   diff 966
 
 115D Christmas   diff 1088
+
+
+
+# DFS
+
+# 頂点を進めていくのではなく、マスを(dp みたいな進め方で)進める
+
+196D Hanjo  diff 1277
+
+
