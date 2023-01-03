@@ -47,13 +47,13 @@
 
 # 類題が少ないデータ構造
 
-# std::set  平衡二分木
+## std::set  平衡二分木
 
 253C  Max - Min Query   diff 518
 
 217D   Cutting Woods   diff 802
 
-# 双方向リスト?
+## 双方向リスト?
 
 237D  LR insertion diff 544
 
@@ -68,20 +68,18 @@
 
 233D Count Interval  diff 726
 
-
-
 # DP
 
-# 差に注目するdp
+## 差に注目するdp
 
 204D  Cooking   diff  832
 
-# 重複して選べるdp
+## 重複して選べるdp
 
 アルゴ式 dp2   問題 7 個数制限付き部分和問題
 
 
-# 前から順に考える dp
+## 前から順に考える dp
 
 211C chokudai    diff 559
 
@@ -114,10 +112,15 @@ D Lucky PIN diff 838
 
 # 区間
 
-# 同じポイントで複数のイベントが発生する 
+## 同じポイントで複数のイベントが発生する 
 
 188D Sunke Prime 933
 
+## グリッド累積和
+
+278E Grid Filling
+
+129D Lump
 
 
 # 状態が繰り返される構造
