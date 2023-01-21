@@ -2,6 +2,13 @@
 
 190D Staircase Sequences    diff 722
 
+# 文字列を N進数で解釈
+
+216C  Many balls 
+
+285C  abc285_brutmhyhiizp
+
+171C One Quadrillion and One Dalmatians 
 
 # 逆元
 
