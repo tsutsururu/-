@@ -2,13 +2,17 @@
 
 190D Staircase Sequences    diff 722
 
-# 文字列を N進数で解釈
+# 整数/文字列を N進数で解釈
 
 216C  Many balls 
 
+171C One Quadrillion and One Dalmatians 
+
+⇒ 整数を 2進数/26進数に変換して、文字列を特定する処理を行う問題
+
 285C  abc285_brutmhyhiizp
 
-171C One Quadrillion and One Dalmatians 
+⇒ 文字列を 26進数に変換して、10進数の整数を求める問題
 
 # 逆元
 
