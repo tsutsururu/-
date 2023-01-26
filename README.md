@@ -147,6 +147,7 @@ D Lucky PIN diff 838
 
 246E Bishop 2
 
+277 CrystalSwitches
 
 
 # DFS
@@ -158,5 +159,12 @@ D Lucky PIN diff 838
 ## 01BFS 
 
 246E  Bishop 2   
+
+213E StrongerTakahashi
+
+277E CrystalSwitches
+
+176E Wizard in Maze
+
 
 
