@@ -175,5 +175,10 @@ D Lucky PIN diff 838
 
 176E Wizard in Maze
 
+# ダイクストラ法
+
+192E Train  ⇒ 230131 解法がダイクストラのテンプレと言える
+
+
 
 
