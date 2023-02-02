@@ -142,6 +142,10 @@ D Lucky PIN diff 838
 
 129D Lump
 
+## segment tree
+
+ACL D Flat Subsequence
+
 
 # 状態が繰り返される構造
 
