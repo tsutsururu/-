@@ -85,6 +85,11 @@ ACL D Flat Subsequence
 
 # DP
 
+## LIS 最長増加部分列
+
+ACL D Flat Subsequence
+
+
 ## in-place 化
 
 ACL D Flat Subsequence
