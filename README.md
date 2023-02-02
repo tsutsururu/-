@@ -41,15 +41,6 @@
 211D Number of shortest paths   diff 755
 
 
-# 尺取り法
-
-229D LongestX      
-
-247E Max Min 
-
-## 区間に対するアプローチについて
-
-230128 
 
 
 
@@ -77,6 +68,10 @@
 
 237D  LR insertion diff 544
 
+## segment tree
+
+ACL D Flat Subsequence
+
 
 
 
@@ -89,6 +84,11 @@
 233D Count Interval  diff 726
 
 # DP
+
+## in-place 化
+
+ACL D Flat Subsequence
+
 
 ## 差に注目するdp
 
@@ -145,6 +145,23 @@ D Lucky PIN diff 838
 ## segment tree
 
 ACL D Flat Subsequence
+
+
+# 尺取り法
+
+229D LongestX      
+
+247E Max Min 
+
+## 区間に対するアプローチについて
+
+230128 
+
+
+# 累積差分
+
+164D Multiple of 2019
+
 
 
 # 状態が繰り返される構造
