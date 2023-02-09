@@ -41,6 +41,15 @@
 211D Number of shortest paths   diff 755
 
 
+# 論理演算
+
+## 桁ごとに注目
+
+147D Xor Sum
+
+## 論理演算の組み合わせ
+
+238D
 
 
 
