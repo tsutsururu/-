@@ -47,6 +47,8 @@
 
 147D Xor Sum
 
+261E Many Operations
+
 ## 論理演算の組み合わせ
 
 238D
