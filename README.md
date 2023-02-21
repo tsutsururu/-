@@ -51,8 +51,13 @@
 
 ## 論理演算の組み合わせ
 
-238D
+238D AND and SUM
 
+# クエリ先読み
+
+235E MST +1
+
+231C Counting2
 
 
 
@@ -163,7 +168,7 @@ D Lucky PIN diff 838
 ACL D Flat Subsequence
 
 
-# 尺取り法
+## 尺取り法
 
 229D LongestX      
 
@@ -174,10 +179,16 @@ ACL D Flat Subsequence
 230128 
 
 
-# 累積差分
+## 累積差分
 
 164D Multiple of 2019
 
+
+# ループ構造の検出
+
+179E Sequence Sum
+
+241E Putting Candies
 
 
 # 状態が繰り返される構造
@@ -185,6 +196,9 @@ ACL D Flat Subsequence
 202D aab aba baa   diff 966
 
 115D Christmas   diff 1088
+
+
+
 
 
 # グラフ理論
