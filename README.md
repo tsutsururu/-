@@ -230,6 +230,7 @@ ACL D Flat Subsequence
 
 192E Train  ⇒ 230131 解法がダイクストラのテンプレと言える
 
+252E Road Reduction
 
 
 # グリッド一致判定
