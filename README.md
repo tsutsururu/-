@@ -213,8 +213,13 @@ ACL D Flat Subsequence
 
 277 CrystalSwitches
 
+## トポロジカルソート
 
-# DFS
+232D Restricted Permutation
+
+291E Find Permutation
+
+## DFS
 
 ## 頂点を進めていくのではなく、マスを(dp みたいな進め方で)進める
 
