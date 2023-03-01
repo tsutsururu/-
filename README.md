@@ -110,6 +110,7 @@ ACL D Flat Subsequence
 
 ACL D Flat Subsequence
 
+重複を許す dp
 
 ## 差に注目するdp
 
