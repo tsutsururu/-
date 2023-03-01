@@ -119,6 +119,12 @@ ACL D Flat Subsequence
 
 アルゴ式 dp2   問題 7 個数制限付き部分和問題
 
+178D Redistribution
+
+099C Strange Bank
+
+153E Crested Ibis vs Monster
+
 
 ## 前から順に考える dp
 
