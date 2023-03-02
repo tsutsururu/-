@@ -226,6 +226,14 @@ ACL D Flat Subsequence
 
 291E Find Permutation
 
+## union -find
+
+## 親でアクセスポイントを管理
+
+228D Linear Probing
+
+137E Summer Vacation
+
 ## DFS
 
 ## 頂点を進めていくのではなく、マスを(dp みたいな進め方で)進める
