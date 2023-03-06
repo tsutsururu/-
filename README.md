@@ -218,6 +218,16 @@ ACL D Flat Subsequence
 115D Christmas   diff 1088
 
 
+# N個のものうち1個を変更・削除したものを解く
+
+[参考](https://drken1215.hatenablog.com/archive/category/N%E5%80%8B%E3%81%AE%E3%82%82%E3%81%AE%E3%81%86%E3%81%A11%E5%80%8B%E3%82%92%E5%A4%89%E6%9B%B4%E3%83%BB%E5%89%8A%E9%99%A4%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E8%A7%A3%E3%81%8F)
+
+098C Attention
+
+125C GCD on Blackboard
+
+291F Teleporter and Closed off
+
 
 
 
