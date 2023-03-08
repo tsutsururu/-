@@ -289,3 +289,12 @@ ACL D Flat Subsequence
 # グリッド一致判定
 
 225C Calendar Validator
+
+
+## trie 木
+
+287E Karuta
+
+
+
+
