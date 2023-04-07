@@ -295,6 +295,15 @@ ACL D Flat Subsequence
 225C Calendar Validator
 
 
+## 二部グラフ
+
+aising2019  Alternating Path
+
+・自分で色付け  282D Make Bipartite 2
+
+
+
+
 ## trie 木
 
 287E Karuta
